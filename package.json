@@ -2,13 +2,12 @@
   "name": "web-2022",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
-  "scripts": {
+   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "npx parcel index.html",
     "final": "npx parcel final/index.html",
-    "deploy:src": "npx parcel build index.html --public-url ./",
-    "deploy:final": "npx parcel build final/index.html --public-url ./"
+    "deploy:src": "npx parcel build index.html --public-url ./"
+    
   },
   "author": "",
   "license": "ISC",

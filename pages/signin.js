@@ -57,11 +57,6 @@ const Main = styled.main`
     width: calc(100% - 220px);
   }
 `;
-const IS_LOGGED_IN = gql`
-  {
-    isLoggedIn@client
-  }
-`;
 
 function SignIn (props) {
 	 let navigate = useNavigate();
