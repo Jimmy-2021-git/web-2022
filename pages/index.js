@@ -57,12 +57,12 @@ const data = {
 
 const ProtectedRoute= ({ data={data},redirectPath = '/', children, }) => {
 	
-  if (data?.isLoggedIn==false) {
+  if (!data) {
     return <Navigate to={redirectPath} replace />;
 	
 	 console.log(data);
   }
-  if(data?.isLoggedIn==true){
+  if(data){
 
   return children;}
   
