@@ -98,7 +98,7 @@
 90C:\Projects\notedly\web-2022\node_modules\date-fns\fp\setWeekYearWithOptions\index.js.flow133116706287036089 0
 87C:\Projects\notedly\web-2022\node_modules\date-fns\esm\locale\gd\_lib\localize\index.js133116706303063474 0
 71C:\Projects\notedly\web-2022\node_modules\svgo\plugins\removeViewBox.js133114925119213114 0
-33C:\Projects\notedly\web-2022\dist133123704684764042 1
+33C:\Projects\notedly\web-2022\dist133123709888895123 1
 83C:\Projects\notedly\web-2022\node_modules\date-fns\locale\eo\_lib\localize\index.js133116706319080164 0
 66C:\Projects\notedly\web-2022\node_modules\abortcontroller-polyfill133114925114203116 1
 84C:\Projects\notedly\web-2022\node_modules\date-fns\esm\fp\getMilliseconds\index.d.ts133116706353737353 0
@@ -17557,7 +17557,7 @@
 56C:\Projects\notedly\web-2022\dist\index.84adf239.css.map133123704684196682 0
 55C:\Projects\notedly\web-2022\dist\index.8500ebc4.js.map133123704684456354 0
 52C:\Projects\notedly\web-2022\dist\index.9e4c6fd2.css133116088883887346 0
-44C:\Projects\notedly\web-2022\dist\index.html133123704684125610 0
+44C:\Projects\notedly\web-2022\dist\index.html133123709888835118 0
 51C:\Projects\notedly\web-2022\dist\logo.1a6758da.svg133115716708056364 0
 49C:\Projects\notedly\web-2022\components\Button.js133114835804163149 0
 55C:\Projects\notedly\web-2022\components\ButtonAsLink.js133114835808357674 0
